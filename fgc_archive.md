@@ -1,3 +1,5 @@
+##Idea
+
 Data related to FGC events should be stored in an universal archive that can be accessed/replicated/contributed by anyone. Storing data in proprietary formats on commercial and potentially short-lived providers leads to data loss, e.g. storing a tournament bracket as JPG screenshot on Imgbanana or Yahoo.
 
 This is independent from the presentation for end-users, they should still be able to conveniently access photos via facebook/twitter/etc.
@@ -11,19 +13,18 @@ Tools should be built based on this suggested structure to submit, extract data 
 
 Distribution via GIT, Torrent, Blockchain, ...
 
----
-
-#Structure
+##Structure
 
 File based storage for media (photos, videos)
 Metadata as plain text
 Event coverage as markdown/screenshot
 Plain HTML for offline viewing (e.g. Jekyll)
 
----
+##File Names
+
 File names should be human readable and friendly, yet parseable. Verify with regex before submitting.
 
----
+##Suggestion/Examples
 
 File Structure suggestion/examples:
 
