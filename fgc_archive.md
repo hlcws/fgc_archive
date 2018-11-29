@@ -12,6 +12,7 @@ Tools should be built based on this suggested structure to submit, extract data 
 Distribution via GIT, Torrent, Blockchain, ...
 
 ---
+
 #Structure
 
 File based storage for media (photos, videos)
