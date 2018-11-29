@@ -2,6 +2,8 @@ Data related to FGC events should be stored in an universal archive that can be 
 
 This is independent from the presentation for end-users, they should still be able to conveniently access photos via facebook/twitter/etc.
 
+The Data package should be universal so that it can be stores on FTP, HTTP, GIT, Google Drive, etc.
+
 ---
 Suggestion:
 
@@ -10,7 +12,7 @@ Metadata as plain text
 Event coverage as markdown/screenshot
 Plain HTML for offline viewing (e.g. Jekyll)
 
-Distribution via FTP, HTTP, torrent, blockchain, GIT, whatever
+Distribution via GIT, Torrent, Blockchain, ...
 
 Should be mergable world-wide
 
