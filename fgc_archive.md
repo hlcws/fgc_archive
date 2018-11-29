@@ -5,6 +5,7 @@ Data related to FGC events should be stored in an universal archive that can be 
 This is independent from the presentation for end-users, they should still be able to conveniently access photos via facebook/twitter/etc.
 
 The Data package should be universal so that it can be stores on FTP, HTTP, GIT, Google Drive, etc.
+This way anyone can run their own repository. Different repositories should be merge-able. Some definitions should be truly global, e.g. game names and character abbreviations.
 
 Tools should be built based on this suggested structure to submit, extract data and generate simple viewers, e.g.
 - PHP upload form for photos
@@ -13,12 +14,12 @@ Tools should be built based on this suggested structure to submit, extract data 
 
 Distribution via GIT, Torrent, Blockchain, ...
 
-# Structure
+# Content
 
-File based storage for media (photos, videos)
-Metadata as plain text
-Event coverage as markdown/screenshot
-Plain HTML for offline viewing (e.g. Jekyll)
+- File based storage for media (photos, videos)
+- Metadata as plain text
+- Event coverage as markdown/screenshot (articles, tweets, posts, ...)
+- Plain HTML for offline viewing (e.g. Jekyll with gallery generator)
 
 # File Names
 
