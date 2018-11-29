@@ -4,6 +4,13 @@ This is independent from the presentation for end-users, they should still be ab
 
 The Data package should be universal so that it can be stores on FTP, HTTP, GIT, Google Drive, etc.
 
+Tools should be built based on this suggested structure to submit, extract data and generate simple viewers, e.g.
+- PHP upload form for photos
+- Dump twitch archive and highlights into mp4
+- Generate HTML gallery (Jekyll?)
+
+Distribution via GIT, Torrent, Blockchain, ...
+
 ---
 Suggestion:
 
@@ -12,11 +19,7 @@ Metadata as plain text
 Event coverage as markdown/screenshot
 Plain HTML for offline viewing (e.g. Jekyll)
 
-Distribution via GIT, Torrent, Blockchain, ...
 
-Should be mergable world-wide
-
-Simple tools for submitting  data, e.g. batch files or PHP upload forms.
 
 ---
 File names should be human readable and friendly, yet parseable. 
