@@ -20,26 +20,31 @@ Event coverage as markdown/screenshot
 Plain HTML for offline viewing (e.g. Jekyll)
 
 ---
-File names should be human readable and friendly, yet parseable. 
+File names should be human readable and friendly, yet parseable. Verify with regex before submitting.
 
 ---
 
-File Structure:
+File Structure suggestion/examples:
 
 Definitions\
- Definitions\Games\
+
+Definitions\Games\
+
 Definitions\Games\Soul_Calibur_VI.txt
+
 - Friendly name, Alias
 - Character names, abbreviations, alias
 
 Year\Year-Month-Day-Eventname-Location\
-2018\2018-11-30-Hessen-Crash-XIV-Frankfurt\Description.txt
+
+2018\2018-11-30-Tekken-World-Tour-EU-NL-Amsterdam\Description.txt
 - Event Name
 - Date
 - Location
 - Games
 
 Year\Year-Month-Day-Eventname-Location\Media\
+
 Year\Year-Month-Day-Eventname-Location\Media\Photos\Eventname_date_location_suffix.jpg
 - jpg
 - png
@@ -47,7 +52,9 @@ Year\Year-Month-Day-Eventname-Location\Media\Photos\Eventname_date_location_suff
 - gfy
 
 Year\Year-Month-Day-Eventname-Location\Media\Videos\
+
 Year\Year-Month-Day-Eventname-Location\Media\Videos\Eventname_date_location_game_bracket.mp4
+
 Year\Year-Month-Day-Eventname-Location\Media\Videos\Eventname_date_location_game_bracket.txt
 - Timestamps
 - Player names
