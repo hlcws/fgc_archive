@@ -12,14 +12,12 @@ Tools should be built based on this suggested structure to submit, extract data 
 Distribution via GIT, Torrent, Blockchain, ...
 
 ---
-Suggestion:
+#Structure
 
 File based storage for media (photos, videos)
 Metadata as plain text
 Event coverage as markdown/screenshot
 Plain HTML for offline viewing (e.g. Jekyll)
-
-
 
 ---
 File names should be human readable and friendly, yet parseable. 
