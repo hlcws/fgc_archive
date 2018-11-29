@@ -23,31 +23,29 @@ File names should be human readable and friendly, yet parseable.
 
 File Structure:
 Definitions\
-Definitions\Games\
+ Definitions\Games\
 Definitions\Games\Soul_Calibur_VI.txt
-Friendly name, Alias
-Character names, abbreviations, alias
+- Friendly name, Alias
+- Character names, abbreviations, alias
 
 Year\Year-Month-Day-Eventname-Location\
-2018\2018-11-30-Hessen-Crash-XIV-Frankfurt\
+2018\2018-11-30-Hessen-Crash-XIV-Frankfurt\Description.txt
+- Event Name
+- Date
+- Location
+- Games
 
-Description.txt
-Event Name
-Date
-Location
-Games
+Year\Year-Month-Day-Eventname-Location\Media\
+Year\Year-Month-Day-Eventname-Location\Media\Photos\Eventname_date_location_suffix.jpg
+- jpg
+- png
+- gif
+- gfy
 
-Media\
-Photos\
-Eventname_date_location_suffix.jpg
-*.jpg, *.png, *.gif
-
-Videos\
-Eventname_date_location_game_bracket.mp4
-Eventname_date_location_game_bracket.txt
-Timestamps
-Player names
-Characters (database with accepted names??)
-Score
-
-
+Year\Year-Month-Day-Eventname-Location\Media\Videos\
+Year\Year-Month-Day-Eventname-Location\Media\Videos\Eventname_date_location_game_bracket.mp4
+Year\Year-Month-Day-Eventname-Location\Media\Videos\Eventname_date_location_game_bracket.txt
+- Timestamps
+- Player names
+- Characters (database with accepted names??)
+- Score
