@@ -25,6 +25,7 @@ File names should be human readable and friendly, yet parseable.
 ---
 
 File Structure:
+
 Definitions\
  Definitions\Games\
 Definitions\Games\Soul_Calibur_VI.txt
