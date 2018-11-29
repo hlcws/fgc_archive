@@ -40,6 +40,14 @@ Definitions\Games\Soul_Calibur_VI.txt
 
 Year\Year-Month-Day-Eventname-Location\
 
+Year\Year-Month-Day-Eventname-Location\bracket-top64.png
+
+Year\Year-Month-Day-Eventname-Location\bracket-top64.txt
+
+- matches containt player names, characters, scores and parent matches
+- matches have 2 fathers
+- bracket should be rebuildable from this dump
+
 2018\2018-11-30-Tekken-World-Tour-EU-NL-Amsterdam\Description.txt
 - Event Name
 - Date
