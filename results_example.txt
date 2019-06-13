@@ -1,0 +1,22 @@
+CrushingEagle 2:0 ksm
+Exzelsios 2:0 Fishfuddah
+Lionhearrrt 2:0 Burn Gassoline
+BulletPlayer 2:0 Kurryeis
+riiya 0:2 Lionhearrrt
+RR.Weak Vatista Player 2:0 Exzelsios
+NudelMob 0:2 CrushingEagle 
+CrushingEagle 2:0 Lionhearrrt
+Exzelsios 2:0 ksm
+riiya 2:0 Kurryeis
+anthic 2:0 BulletPlayer
+NudelMob 2:0 Fishfuddah
+riiya 0:2 NudelMob 
+anthic 2:0 RR.Weak Vatista Player
+BulletPlayer 2:0 Burn Gassoline
+Exzelsios 2:0 BulletPlayer
+Lionhearrrt 1:2 Exzelsios 
+RR.Weak Vatista Player 0:2 NudelMob 
+NudelMob 1:2 Exzelsios
+anthic 0:2 CrushingEagle 
+anthic 2:0 Exzelsios
+CrushingEagle 2:1 anthic
