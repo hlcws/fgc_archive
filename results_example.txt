@@ -1,22 +1,44 @@
+Winners1 
 CrushingEagle 2:0 ksm
+Winners1
 Exzelsios 2:0 Fishfuddah
+Winners1
 Lionhearrrt 2:0 Burn Gassoline
+Winners1
 BulletPlayer 2:0 Kurryeis
+Winners2
 riiya 0:2 Lionhearrrt
+Winners2
 RR.Weak Vatista Player 2:0 Exzelsios
+Winners2
 NudelMob 0:2 CrushingEagle 
+Winners3
 CrushingEagle 2:0 Lionhearrrt
+Losers1
 Exzelsios 2:0 ksm
+Losers1
 riiya 2:0 Kurryeis
+Winners2
 anthic 2:0 BulletPlayer
+Losers1
 NudelMob 2:0 Fishfuddah
-riiya 0:2 NudelMob 
+Losers2
+riiya 0:2 NudelMob
+Winners3
 anthic 2:0 RR.Weak Vatista Player
+Losers1
 BulletPlayer 2:0 Burn Gassoline
+Losers2
 Exzelsios 2:0 BulletPlayer
+Losers3
 Lionhearrrt 1:2 Exzelsios 
+Losers3
 RR.Weak Vatista Player 0:2 NudelMob 
+Losers4
 NudelMob 1:2 Exzelsios
+Semifinals
 anthic 0:2 CrushingEagle 
+Losers5
 anthic 2:0 Exzelsios
+Finals
 CrushingEagle 2:1 anthic
